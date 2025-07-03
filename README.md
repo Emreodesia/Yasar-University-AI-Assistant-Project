@@ -227,11 +227,3 @@ MIT License
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📞 İletişim
-
-Yaşar Üniversitesi ile iletişime geçmek için:
-- 📞 Telefon: 0232 411 50 00
-- 📧 Email: info@yasar.edu.tr
-- 📍 Adres: Üniversite Caddesi, No: 37-39, Bornova, İzmir
-
-Sorularınız için issue açabilir veya iletişime geçebilirsiniz. 
